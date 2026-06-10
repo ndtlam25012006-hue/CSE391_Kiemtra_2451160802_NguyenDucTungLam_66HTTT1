@@ -1,0 +1,31 @@
+body{
+    background-color: #f3f5f7;
+    font-family: Arial, sans-serif;
+}
+
+.header{
+    background: linear-gradient(to right,#1e66ff,#6a11cb);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.form-box{
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px gray;
+}
+
+.card{
+    box-shadow: 0px 0px 5px #ccc;
+}
+
+.card h5{
+    font-weight: bold;
+}
+
+button{
+    margin-right: 5px;
+}
